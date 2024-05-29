@@ -1,0 +1,22 @@
+{
+    "Alunos":[
+        {
+            "id": 1,
+            "nome": "Douglas",
+            "email": "douglash@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 2,
+            "nome": "maria",
+            "email": "maria@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 3,
+            "nome": "pedro",
+            "email": "pedro@gmail.com",
+            "curso": "Sistemas para Internet"
+        }
+    ]
+}
